@@ -10,7 +10,7 @@ h1{
     margin: 33px 50px 0px 50px;
     font-style: normal;
     font-weight: 800;
-    line-height: 38px; /* 135.714% */
+    line-height: 38px; 
     letter-spacing: -0.84px;
 }
 
@@ -21,7 +21,7 @@ input {
     font-size: 58px;
     font-style: normal;
     font-weight: 800;
-    line-height: 24.393px; /* 42.057% */
+    line-height: 24.393px; 
     background: #6943FF;
     border-radius: 5px;
     border: 2px solid #B295FF;
